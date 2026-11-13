@@ -1,3 +1,4 @@
+// Copyright (C) Ilkan Altikulac 2026 | Licensed under MIT
 #include "channels.h"
 #include <memory.h>
 #include <stdint.h>
